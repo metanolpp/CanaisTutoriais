@@ -15,3 +15,6 @@ https://youtu.be/Nneso48HVMM?si=BZfbAYSt0GoxLrAN
 
 Modificar nome dos NODEs PROXYMOX
 https://youtu.be/2NzLYKRVRtk?si=csODFyqx0SkMlhGO
+
+Cluster de Alta disponibilidade
+https://youtu.be/y03i2l-I1Mc?si=bOr7y9CrC4oJ8-v2
