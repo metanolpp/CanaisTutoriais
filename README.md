@@ -18,5 +18,14 @@ https://youtu.be/Nneso48HVMM?si=BZfbAYSt0GoxLrAN
 Modificar nome dos NODEs PROXYMOX
 https://youtu.be/2NzLYKRVRtk?si=csODFyqx0SkMlhGO
 
+Edite o arquivo /etc/hosts:
+Abra o arquivo /etc/hosts em um editor de texto com privilégios de root.
+Localize a linha que contém o IP do seu nó e o nome antigo.
+Substitua o nome antigo pelo novo nome.
+Edite o arquivo /etc/hostname:
+Abra o arquivo /etc/hostname em um editor de texto com privilégios de root.
+Substitua o nome antigo pelo novo nome.
+
+
 Cluster de Alta disponibilidade
 https://youtu.be/y03i2l-I1Mc?si=bOr7y9CrC4oJ8-v2
