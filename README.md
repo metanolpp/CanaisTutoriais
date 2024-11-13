@@ -25,7 +25,8 @@ Substitua o nome antigo pelo novo nome.
 Edite o arquivo /etc/hostname:
 Abra o arquivo /etc/hostname em um editor de texto com privilégios de root.
 Substitua o nome antigo pelo novo nome.
-
+Reinicie o sistema:
+Reinicie o seu nó Proxmox para que as alterações tenham efeito.
 
 Cluster de Alta disponibilidade
 https://youtu.be/y03i2l-I1Mc?si=bOr7y9CrC4oJ8-v2
